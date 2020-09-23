@@ -1,4 +1,4 @@
-# Increasing-Marketing-Strategies : Found-the-most-Profitable-and-Detrimental-Product
+Increasing-Marketing-Strategies : Found-the-most-Profitable-and-Detrimental-Product
 the main point of this project:
 1. In order to increase efficiencies of Corporation Budget we develop a program for finding the most profitable product
 2. All calculation based on profit emerged by specific product
